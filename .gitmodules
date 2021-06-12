@@ -1,0 +1,3 @@
+[submodule "vendors"]
+	path = vendors
+	url = git@github.com:JayMcAnser/api-vendors.git
